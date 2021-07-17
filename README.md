@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+### Steps to run project :
+
+1. open command prompt
+2. Install libraries:
+
+  npm i  codemirror react codemirror2
+  
+  npm i @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
+  
+  
+3. Run Project using;
+
+  npm start 
+  
+  A tab will be opened in the browser showing the online code editor  of html css and javascript with live view of the output.
